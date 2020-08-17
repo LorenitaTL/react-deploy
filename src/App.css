@@ -2,9 +2,17 @@
   text-align: center;
 }
 
+body{
+  background-color: aqua;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.Img-profile{
+  max-height: 300px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
